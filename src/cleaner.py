@@ -1,11 +1,3 @@
-"""
-cleaner.py
-----------
-Applies cleaning rules and validation logic to raw order records.
-Returns cleaned valid orders and rejected invalid orders.
-No pandas is used.
-"""
-
 from datetime import datetime
 
 # --- Constants ---
