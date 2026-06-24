@@ -1,0 +1,67 @@
+order_id,customer_id,customer_name,city,product_id,quantity,unit_price,order_status,payment_method,order_date
+ORD001,C001,Rahul Sharma,Mumbai,P001,1,45000.00,Completed,Credit Card,2026-01-10
+ORD002,C002,Priya Patel,Delhi,P002,2,15000.00,Completed,UPI,2026-01-11
+ORD003,C003,Amit Kumar,Bangalore,P003,3,2500.00,Pending,Debit Card,2026-01-12
+ORD004,C004,Sneha Singh,Chennai,P004,1,8000.00,Shipped,Net Banking,2026-01-13
+ORD005,C005,Vijay Mehta,Hyderabad,P005,1,12000.00,Completed,Cash,2026-01-14
+ORD006,C006,Anita Gupta,Pune,P006,5,150.00,Completed,UPI,2026-01-15
+ORD007,C007,Rajesh Nair,Kolkata,P007,4,250.00,Cancelled,Credit Card,2026-01-16
+ORD008,C008,Pooja Joshi,Mumbai,P008,2,1200.00,Completed,Debit Card,2026-01-17
+ORD009,C009,Suresh Reddy,Hyderabad,P009,1,1800.00,Shipped,UPI,2026-01-18
+ORD010,C010,Neha Sharma,Delhi,P010,1,18000.00,Completed,Credit Card,2026-01-19
+ORD011,C001,Rahul Sharma,Mumbai,P011,3,800.00,Pending,Cash,2026-01-20
+ORD012,C002,Priya Patel,Delhi,P012,1,6500.00,Completed,Net Banking,2026-01-21
+ORD013,C003,Amit Kumar,Bangalore,P001,1,45000.00,Shipped,UPI,2026-01-22
+ORD014,C004,Sneha Singh,Chennai,P002,1,15000.00,Completed,Credit Card,2026-01-23
+ORD015,C005,,Hyderabad,P003,2,2500.00,Completed,UPI,2026-01-24
+ORD016,C006,Anita Gupta,Pune,P004,2,8000.00,Pending,Debit Card,2026-01-25
+ORD017,C007,Rajesh Nair,Kolkata,P005,1,12000.00,Completed,Cash,2026-01-26
+ORD018,C008,Pooja Joshi,Mumbai,P006,10,150.00,Shipped,Credit Card,2026-01-27
+ORD019,C009,Suresh Reddy,Hyderabad,P007,3,250.00,Completed,Net Banking,2026-01-28
+ORD020,C010,Neha Sharma,,P008,1,1200.00,Completed,UPI,2026-01-29
+ORD021,C001,Rahul Sharma,Mumbai,P009,2,1800.00,Cancelled,Debit Card,2026-01-30
+ORD022,C002,Priya Patel,Delhi,P010,1,18000.00,Completed,Credit Card,2026-01-31
+ORD023,C003,Amit Kumar,Bangalore,P011,5,800.00,Pending,UPI,2026-02-01
+ORD024,C004,Sneha Singh,Chennai,P012,1,6500.00,Completed,Net Banking,2026-02-02
+ORD025,C005,Vijay Mehta,Hyderabad,P001,0,45000.00,Completed,Cash,2026-02-03
+ORD026,C006,Anita Gupta,Pune,P002,1,15000.00,Shipped,Credit Card,2026-02-04
+ORD027,C007,Rajesh Nair,Kolkata,P003,4,2500.00,Completed,UPI,2026-02-05
+ORD028,C008,Pooja Joshi,Mumbai,P004,1,8000.00,Pending,Debit Card,2026-02-06
+ORD029,C009,Suresh Reddy,Hyderabad,P005,2,12000.00,Completed,Net Banking,2026-02-07
+ORD030,C010,,Delhi,P006,6,150.00,Completed,UPI,2026-02-08
+ORD031,C001,Rahul Sharma,Mumbai,P007,2,250.00,Cancelled,Cash,2026-02-09
+ORD032,C002,Priya Patel,Delhi,P008,3,1200.00,Completed,Credit Card,2026-02-10
+ORD033,C003,Amit Kumar,Bangalore,P009,1,1800.00,Shipped,Debit Card,2026-02-11
+ORD034,C004,Sneha Singh,Chennai,P010,1,18000.00,Pending,UPI,2026-02-12
+ORD035,C005,Vijay Mehta,,P011,2,800.00,Completed,Net Banking,2026-02-13
+ORD036,C006,Anita Gupta,Pune,P012,1,6500.00,Completed,Cash,2026-02-14
+ORD037,C007,Rajesh Nair,Kolkata,P001,1,45000.00,Shipped,Credit Card,2026-02-15
+ORD038,C008,Pooja Joshi,Mumbai,P002,2,15000.00,Completed,UPI,2026-02-16
+ORD039,C009,Suresh Reddy,Hyderabad,P003,1,2500.00,Pending,Debit Card,2026-02-17
+ORD040,C010,Neha Sharma,Delhi,P004,-2,8000.00,Completed,Net Banking,2026-02-18
+ORD041,C001,Rahul Sharma,Mumbai,P005,1,12000.00,Completed,UPI,2026-02-19
+ORD042,C002,Priya Patel,Delhi,P006,8,150.00,Shipped,Cash,2026-02-20
+ORD043,C003,Amit Kumar,Bangalore,P007,3,250.00,Completed,Credit Card,2026-02-21
+ORD044,C004,Sneha Singh,Chennai,P008,1,1200.00,Cancelled,Debit Card,2026-02-22
+ORD045,C005,Vijay Mehta,Hyderabad,P001,1,40000.00,Completed,UPI,2026-02-23
+ORD046,C006,Anita Gupta,Pune,P009,2,1800.00,Pending,Net Banking,2026-02-24
+ORD047,C007,Rajesh Nair,Kolkata,P010,1,18000.00,Completed,Cash,2026-02-25
+ORD048,C008,Pooja Joshi,Mumbai,P011,4,800.00,Shipped,Credit Card,2026-02-26
+ORD049,C009,Suresh Reddy,Hyderabad,P012,1,6500.00,Completed,UPI,2026-02-27
+ORD050,C010,Neha Sharma,Delhi,P001,1,45000.00,Delivered,Debit Card,2026-02-28
+ORD051,C001,Rahul Sharma,Mumbai,P002,2,15000.00,Completed,Net Banking,2026-03-01
+ORD052,C002,Priya Patel,Delhi,P003,3,2500.00,Pending,UPI,2026-03-02
+ORD053,C003,Amit Kumar,Bangalore,P004,1,8000.00,Completed,Cash,2026-03-03
+ORD054,C004,Sneha Singh,Chennai,P005,1,12000.00,Shipped,Credit Card,2026-03-04
+ORD055,C005,Vijay Mehta,Hyderabad,P006,5,150.00,Completed,Bitcoin,2026-03-05
+ORD056,C006,Anita Gupta,Pune,P007,2,250.00,Completed,Debit Card,2026-03-06
+ORD057,C007,Rajesh Nair,Kolkata,P008,1,1200.00,Cancelled,UPI,2026-03-07
+ORD058,C008,Pooja Joshi,Mumbai,P009,3,1800.00,Completed,Net Banking,2026-03-08
+ORD059,C009,Suresh Reddy,Hyderabad,P010,1,18000.00,Processing,Cash,2026-03-09
+ORD060,C010,Neha Sharma,Delhi,P011,2,800.00,Completed,Credit Card,24/06/2026
+ORD061,C001,  Rahul   Sharma  ,  Mumbai  ,P012,1,6500.00,Completed,UPI,2026-03-11
+ORD062,C002,priya patel,DELHI,P001,1,45000.00,Shipped,Debit Card,2026-03-12
+ORD063,C003,Amit Kumar,bangalore,P002,2,15000.00,Completed,Net Banking,2026-03-13
+ORD064,C004,SNEHA SINGH,  Chennai  ,P003,3,2500.00,Pending,Cash,2026-03-14
+ORD002,C002,Priya Patel,Delhi,P004,1,8000.00,Completed,UPI,2026-03-15
+ORD065,C005,Vijay Mehta,Hyderabad,P005,2,12000.00,Completed,Cheque,2026-03-16

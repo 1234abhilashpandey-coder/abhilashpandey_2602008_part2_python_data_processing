@@ -1,0 +1,13 @@
+product_id,product_name,category,standard_price
+P001,Laptop,Electronics,45000.00
+P002,Smartphone,Electronics,15000.00
+P003,Headphones,Electronics,2500.00
+P004,Office Chair,Furniture,8000.00
+P005,Desk,Furniture,12000.00
+P006,Notebook,Stationery,150.00
+P007,Pen Set,Stationery,250.00
+P008,Wireless Mouse,Electronics,1200.00
+P009,Mechanical Keyboard,Electronics,1800.00
+P010,Monitor,Electronics,18000.00
+P011,USB Hub,Electronics,800.00
+P012,Bookshelf,Furniture,6500.00
