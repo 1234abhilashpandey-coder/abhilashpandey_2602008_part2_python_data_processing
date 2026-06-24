@@ -159,13 +159,17 @@ studentname_studentid_part2_python_data_processing/
 
 ## Screenshots
 
-> Add screenshots of:
-> - Terminal output after running `python main.py`
-> - `cleaned_orders.csv` opened in a spreadsheet or text editor
-> - `rejected_records.csv` showing rejection reasons
-> - `summary_report.txt` contents
+### 1. Pipeline Execution
+![Pipeline Output](outputs/screenshots/pipeline_output.png)
 
->Screenshot files placed in `outputs/screenshots/`
+### 2. Cleaned Orders
+![Cleaned Orders](outputs/screenshots/cleaned_orders.png)
+
+### 3. Rejected Records
+![Rejected Records](outputs/screenshots/rejected_records.png)
+
+### 4. Summary Report
+![Summary Report](outputs/screenshots/summary_report.png)
 
 ---
 
