@@ -2,8 +2,8 @@
 **Part 2: Python Data Processing Without Pandas**
 
 ## Student Information
-- **Student Name:** [Abhilash Pandey]
-- **Student ID:** [2602008]
+- **Student Name:** Abhilash Pandey
+- **Student ID:** 2602008
 
 
 ---
@@ -129,8 +129,8 @@ studentname_studentid_part2_python_data_processing/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/studentname_studentid_part2_python_data_processing.git
-   cd studentname_studentid_part2_python_data_processing
+   git clone https://github.com/1234abhilashpandey-coder/abhilashpandey_2602008_part2_python_data_processing.git
+   cd abhilashpandey_2602008_part2_python_data_processing
    ```
 
 2. **Run the pipeline:**
@@ -165,7 +165,7 @@ studentname_studentid_part2_python_data_processing/
 > - `rejected_records.csv` showing rejection reasons
 > - `summary_report.txt` contents
 
-*(Place screenshot files in `outputs/screenshots/`)*
+>Screenshot files placed in `outputs/screenshots/`
 
 ---
 
