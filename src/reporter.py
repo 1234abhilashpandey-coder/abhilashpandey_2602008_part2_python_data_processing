@@ -1,13 +1,3 @@
-"""
-reporter.py
------------
-Writes pipeline output files:
-  - outputs/cleaned_orders.csv
-  - outputs/rejected_records.csv
-  - outputs/summary_report.txt
-Uses only Python's built-in csv and os modules.
-"""
-
 import csv
 import os
 
