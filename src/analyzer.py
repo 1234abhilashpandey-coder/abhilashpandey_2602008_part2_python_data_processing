@@ -1,11 +1,3 @@
-"""
-analyzer.py
------------
-Computes business statistics and analytics from cleaned order data.
-Uses only Python lists, dictionaries, and loops. No pandas.
-"""
-
-
 def get_total_revenue(cleaned_orders):
     """
     Calculate total revenue from Completed orders only.
