@@ -1,10 +1,3 @@
-"""
-loader.py
----------
-Handles loading of CSV data files into Python lists and dictionaries.
-No pandas is used — only Python's built-in csv module.
-"""
-
 import csv
 import os
 
