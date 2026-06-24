@@ -1,17 +1,6 @@
-"""
-main.py
--------
-Entry point for the Python Data Processing Pipeline.
-Orchestrates all pipeline tasks by calling functions from the src/ package.
-
-Usage:
-    python main.py
-"""
-
 import os
 import sys
 
-# Ensure project root is on the Python path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from src.loader import load_orders, load_product_master
