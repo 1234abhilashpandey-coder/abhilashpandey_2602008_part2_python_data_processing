@@ -1,0 +1,54 @@
+order_id,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price,total_amount,order_status,payment_method,order_date
+ORD001,C001,Rahul Sharma,Mumbai,P001,Laptop,Electronics,1,45000.0,45000.0,Completed,Credit Card,2026-01-10
+ORD002,C002,Priya Patel,Delhi,P002,Smartphone,Electronics,2,15000.0,30000.0,Completed,UPI,2026-01-11
+ORD003,C003,Amit Kumar,Bangalore,P003,Headphones,Electronics,3,2500.0,7500.0,Pending,Debit Card,2026-01-12
+ORD004,C004,Sneha Singh,Chennai,P004,Office Chair,Furniture,1,8000.0,8000.0,Shipped,Net Banking,2026-01-13
+ORD005,C005,Vijay Mehta,Hyderabad,P005,Desk,Furniture,1,12000.0,12000.0,Completed,Cash,2026-01-14
+ORD006,C006,Anita Gupta,Pune,P006,Notebook,Stationery,5,150.0,750.0,Completed,UPI,2026-01-15
+ORD007,C007,Rajesh Nair,Kolkata,P007,Pen Set,Stationery,4,250.0,1000.0,Cancelled,Credit Card,2026-01-16
+ORD008,C008,Pooja Joshi,Mumbai,P008,Wireless Mouse,Electronics,2,1200.0,2400.0,Completed,Debit Card,2026-01-17
+ORD009,C009,Suresh Reddy,Hyderabad,P009,Mechanical Keyboard,Electronics,1,1800.0,1800.0,Shipped,UPI,2026-01-18
+ORD010,C010,Neha Sharma,Delhi,P010,Monitor,Electronics,1,18000.0,18000.0,Completed,Credit Card,2026-01-19
+ORD011,C001,Rahul Sharma,Mumbai,P011,USB Hub,Electronics,3,800.0,2400.0,Pending,Cash,2026-01-20
+ORD012,C002,Priya Patel,Delhi,P012,Bookshelf,Furniture,1,6500.0,6500.0,Completed,Net Banking,2026-01-21
+ORD013,C003,Amit Kumar,Bangalore,P001,Laptop,Electronics,1,45000.0,45000.0,Shipped,UPI,2026-01-22
+ORD014,C004,Sneha Singh,Chennai,P002,Smartphone,Electronics,1,15000.0,15000.0,Completed,Credit Card,2026-01-23
+ORD016,C006,Anita Gupta,Pune,P004,Office Chair,Furniture,2,8000.0,16000.0,Pending,Debit Card,2026-01-25
+ORD017,C007,Rajesh Nair,Kolkata,P005,Desk,Furniture,1,12000.0,12000.0,Completed,Cash,2026-01-26
+ORD018,C008,Pooja Joshi,Mumbai,P006,Notebook,Stationery,10,150.0,1500.0,Shipped,Credit Card,2026-01-27
+ORD019,C009,Suresh Reddy,Hyderabad,P007,Pen Set,Stationery,3,250.0,750.0,Completed,Net Banking,2026-01-28
+ORD021,C001,Rahul Sharma,Mumbai,P009,Mechanical Keyboard,Electronics,2,1800.0,3600.0,Cancelled,Debit Card,2026-01-30
+ORD022,C002,Priya Patel,Delhi,P010,Monitor,Electronics,1,18000.0,18000.0,Completed,Credit Card,2026-01-31
+ORD023,C003,Amit Kumar,Bangalore,P011,USB Hub,Electronics,5,800.0,4000.0,Pending,UPI,2026-02-01
+ORD024,C004,Sneha Singh,Chennai,P012,Bookshelf,Furniture,1,6500.0,6500.0,Completed,Net Banking,2026-02-02
+ORD026,C006,Anita Gupta,Pune,P002,Smartphone,Electronics,1,15000.0,15000.0,Shipped,Credit Card,2026-02-04
+ORD027,C007,Rajesh Nair,Kolkata,P003,Headphones,Electronics,4,2500.0,10000.0,Completed,UPI,2026-02-05
+ORD028,C008,Pooja Joshi,Mumbai,P004,Office Chair,Furniture,1,8000.0,8000.0,Pending,Debit Card,2026-02-06
+ORD029,C009,Suresh Reddy,Hyderabad,P005,Desk,Furniture,2,12000.0,24000.0,Completed,Net Banking,2026-02-07
+ORD031,C001,Rahul Sharma,Mumbai,P007,Pen Set,Stationery,2,250.0,500.0,Cancelled,Cash,2026-02-09
+ORD032,C002,Priya Patel,Delhi,P008,Wireless Mouse,Electronics,3,1200.0,3600.0,Completed,Credit Card,2026-02-10
+ORD033,C003,Amit Kumar,Bangalore,P009,Mechanical Keyboard,Electronics,1,1800.0,1800.0,Shipped,Debit Card,2026-02-11
+ORD034,C004,Sneha Singh,Chennai,P010,Monitor,Electronics,1,18000.0,18000.0,Pending,UPI,2026-02-12
+ORD036,C006,Anita Gupta,Pune,P012,Bookshelf,Furniture,1,6500.0,6500.0,Completed,Cash,2026-02-14
+ORD037,C007,Rajesh Nair,Kolkata,P001,Laptop,Electronics,1,45000.0,45000.0,Shipped,Credit Card,2026-02-15
+ORD038,C008,Pooja Joshi,Mumbai,P002,Smartphone,Electronics,2,15000.0,30000.0,Completed,UPI,2026-02-16
+ORD039,C009,Suresh Reddy,Hyderabad,P003,Headphones,Electronics,1,2500.0,2500.0,Pending,Debit Card,2026-02-17
+ORD041,C001,Rahul Sharma,Mumbai,P005,Desk,Furniture,1,12000.0,12000.0,Completed,UPI,2026-02-19
+ORD042,C002,Priya Patel,Delhi,P006,Notebook,Stationery,8,150.0,1200.0,Shipped,Cash,2026-02-20
+ORD043,C003,Amit Kumar,Bangalore,P007,Pen Set,Stationery,3,250.0,750.0,Completed,Credit Card,2026-02-21
+ORD044,C004,Sneha Singh,Chennai,P008,Wireless Mouse,Electronics,1,1200.0,1200.0,Cancelled,Debit Card,2026-02-22
+ORD046,C006,Anita Gupta,Pune,P009,Mechanical Keyboard,Electronics,2,1800.0,3600.0,Pending,Net Banking,2026-02-24
+ORD047,C007,Rajesh Nair,Kolkata,P010,Monitor,Electronics,1,18000.0,18000.0,Completed,Cash,2026-02-25
+ORD048,C008,Pooja Joshi,Mumbai,P011,USB Hub,Electronics,4,800.0,3200.0,Shipped,Credit Card,2026-02-26
+ORD049,C009,Suresh Reddy,Hyderabad,P012,Bookshelf,Furniture,1,6500.0,6500.0,Completed,UPI,2026-02-27
+ORD051,C001,Rahul Sharma,Mumbai,P002,Smartphone,Electronics,2,15000.0,30000.0,Completed,Net Banking,2026-03-01
+ORD052,C002,Priya Patel,Delhi,P003,Headphones,Electronics,3,2500.0,7500.0,Pending,UPI,2026-03-02
+ORD053,C003,Amit Kumar,Bangalore,P004,Office Chair,Furniture,1,8000.0,8000.0,Completed,Cash,2026-03-03
+ORD054,C004,Sneha Singh,Chennai,P005,Desk,Furniture,1,12000.0,12000.0,Shipped,Credit Card,2026-03-04
+ORD056,C006,Anita Gupta,Pune,P007,Pen Set,Stationery,2,250.0,500.0,Completed,Debit Card,2026-03-06
+ORD057,C007,Rajesh Nair,Kolkata,P008,Wireless Mouse,Electronics,1,1200.0,1200.0,Cancelled,UPI,2026-03-07
+ORD058,C008,Pooja Joshi,Mumbai,P009,Mechanical Keyboard,Electronics,3,1800.0,5400.0,Completed,Net Banking,2026-03-08
+ORD061,C001,Rahul Sharma,Mumbai,P012,Bookshelf,Furniture,1,6500.0,6500.0,Completed,UPI,2026-03-11
+ORD062,C002,Priya Patel,Delhi,P001,Laptop,Electronics,1,45000.0,45000.0,Shipped,Debit Card,2026-03-12
+ORD063,C003,Amit Kumar,Bangalore,P002,Smartphone,Electronics,2,15000.0,30000.0,Completed,Net Banking,2026-03-13
+ORD064,C004,Sneha Singh,Chennai,P003,Headphones,Electronics,3,2500.0,7500.0,Pending,Cash,2026-03-14

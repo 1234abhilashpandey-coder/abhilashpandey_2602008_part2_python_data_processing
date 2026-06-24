@@ -1,0 +1,89 @@
+=================================================================
+         BUSINESS SUMMARY REPORT
+         Python Data Processing Pipeline
+=================================================================
+
+1. RECORD OVERVIEW
+---------------------------------------------
+   Total Raw Records          : 66
+   Total Cleaned Records      : 53
+   Total Rejected Records     : 13
+
+2. TOTAL REVENUE (Completed Orders)
+---------------------------------------------
+   Rs.   358,650.00
+
+3. REVENUE BY CATEGORY
+---------------------------------------------
+   Electronics            : Rs.   255,400.00
+   Furniture              : Rs.   100,500.00
+   Stationery             : Rs.     2,750.00
+
+4. REVENUE BY CITY
+---------------------------------------------
+   Mumbai                 : Rs.   131,300.00
+   Delhi                  : Rs.    76,100.00
+   Hyderabad              : Rs.    43,250.00
+   Kolkata                : Rs.    40,000.00
+   Bangalore              : Rs.    38,750.00
+   Chennai                : Rs.    21,500.00
+   Pune                   : Rs.     7,750.00
+
+5. NUMBER OF ORDERS BY PAYMENT METHOD
+---------------------------------------------
+   UPI                    : 13 orders
+   Credit Card            : 12 orders
+   Debit Card             : 10 orders
+   Net Banking            : 9 orders
+   Cash                   : 9 orders
+
+6. TOP 3 CUSTOMERS BY TOTAL SPEND
+---------------------------------------------
+   1. C002 (Priya Patel)                  Rs.   111,800.00
+   2. C001 (Rahul Sharma)                 Rs.   100,000.00
+   3. C003 (Amit Kumar)                   Rs.    97,050.00
+
+7. PRODUCT WITH HIGHEST QUANTITY SOLD
+---------------------------------------------
+   Notebook — 23 units sold
+
+8. CATEGORY WITH HIGHEST REVENUE
+---------------------------------------------
+   Electronics — Rs. 255,400.00
+
+9. COUNT OF REJECTED RECORDS BY REASON
+---------------------------------------------
+   Missing customer name                 : 2
+   Missing city                          : 2
+   Invalid quantity                      : 2
+   Invalid order status                  : 2
+   Invalid payment method                : 2
+   Unit price mismatch                   : 1
+   Invalid date format                   : 1
+   Duplicate order ID                    : 1
+
+10. KEY BUSINESS INSIGHTS
+---------------------------------------------
+   1. Data Quality: 19.7% of raw records (13 out of 66) were rejected 
+      due to quality issues. Implementing stricter data entry 
+      validation at the source could significantly improve pipeline 
+      efficiency. 
+
+   2. Top Revenue Driver: 'Electronics' leads all categories with Rs. 
+      255,400.00 in revenue (71.2% of total). Investing in this 
+      category's inventory and promotions could yield the highest 
+      returns. 
+
+   3. Geographic Focus: 'Mumbai' is the highest-revenue city at Rs. 
+      131,300.00. Increasing delivery coverage, local partnerships, 
+      and targeted marketing in this region could further boost 
+      sales. 
+
+   4. Payment Preference: 'UPI' is the most preferred payment method 
+      with 13 orders. Ensuring seamless, reliable processing for this 
+      method and offering exclusive discounts could improve customer 
+      retention. 
+
+=================================================================
+                  END OF REPORT
+=================================================================

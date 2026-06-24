@@ -1,0 +1,14 @@
+order_id,customer_id,customer_name,city,product_id,quantity,unit_price,order_status,payment_method,order_date,rejection_reason
+ORD015,C005,,Hyderabad,P003,2,2500.00,Completed,UPI,2026-01-24,Missing customer name
+ORD020,C010,Neha Sharma,,P008,1,1200.00,Completed,UPI,2026-01-29,Missing city value
+ORD025,C005,Vijay Mehta,Hyderabad,P001,0,45000.00,Completed,Cash,2026-02-03,Invalid quantity: 0 (must be > 0)
+ORD030,C010,,Delhi,P006,6,150.00,Completed,UPI,2026-02-08,Missing customer name
+ORD035,C005,Vijay Mehta,,P011,2,800.00,Completed,Net Banking,2026-02-13,Missing city value
+ORD040,C010,Neha Sharma,Delhi,P004,-2,8000.00,Completed,Net Banking,2026-02-18,Invalid quantity: -2 (must be > 0)
+ORD045,C005,Vijay Mehta,Hyderabad,P001,1,40000.00,Completed,UPI,2026-02-23,"Unit price mismatch: order has 40000.00, standard is 45000.00"
+ORD050,C010,Neha Sharma,Delhi,P001,1,45000.00,Delivered,Debit Card,2026-02-28,Invalid order status: 'Delivered'
+ORD055,C005,Vijay Mehta,Hyderabad,P006,5,150.00,Completed,Bitcoin,2026-03-05,Invalid payment method: 'Bitcoin'
+ORD059,C009,Suresh Reddy,Hyderabad,P010,1,18000.00,Processing,Cash,2026-03-09,Invalid order status: 'Processing'
+ORD060,C010,Neha Sharma,Delhi,P011,2,800.00,Completed,Credit Card,24/06/2026,Invalid date format: '24/06/2026' (expected YYYY-MM-DD)
+ORD002,C002,Priya Patel,Delhi,P004,1,8000.00,Completed,UPI,2026-03-15,Duplicate order ID: 'ORD002'
+ORD065,C005,Vijay Mehta,Hyderabad,P005,2,12000.00,Completed,Cheque,2026-03-16,Invalid payment method: 'Cheque'
